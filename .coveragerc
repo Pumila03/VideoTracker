@@ -1,0 +1,6 @@
+[run]
+source = src/models
+omit =
+    */__init__.py
+    src/models/editingmode.py
+    src/models/axesdisplay.py
